@@ -9,9 +9,5 @@ sites:
   - name: bingPict
     url: https://bingpict.hookin.fun
 
-status-website:
-  baseUrl: /hookin_fun_upptime # where "repo" is your repository name
-  name: hookin_fun_upptime
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
