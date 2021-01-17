@@ -4,19 +4,19 @@
     "url": "https://hookin.fun",
     "icon": "https://favicons.githubusercontent.com/hookin.fun",
     "slug": "hookin-fun",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 362,
-    "timeWeek": 566,
-    "timeMonth": 544,
-    "timeYear": 544,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 547,
+    "timeDay": 490,
+    "timeWeek": 573,
+    "timeMonth": 547,
+    "timeYear": 547,
     "dailyMinutesDown": {
-      "2021-01-17": 1
+      "2021-01-17": 38
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://bingpict.hookin.fun",
     "icon": "https://favicons.githubusercontent.com/bingpict.hookin.fun",
     "slug": "bing-pict",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 400,
-    "timeWeek": 493,
-    "timeMonth": 548,
-    "timeYear": 548,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 565,
+    "timeDay": 662,
+    "timeWeek": 547,
+    "timeMonth": 565,
+    "timeYear": 565,
     "dailyMinutesDown": {
-      "2021-01-17": 0
+      "2021-01-17": 37
     }
   }
 ]
