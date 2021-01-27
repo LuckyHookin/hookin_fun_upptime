@@ -7,7 +7,9 @@ sites:
   - name: Hookin.fun
     url: https://hookin.fun
   - name: bingPict
-    url: https://bingpict.hookin.fun
+    url: https://bing.hookin.fun
+  - name: share
+    url: https://share.hookin.fun
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
