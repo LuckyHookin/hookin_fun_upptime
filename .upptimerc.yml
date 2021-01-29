@@ -10,6 +10,9 @@ sites:
     url: https://bing.hookin.fun
   - name: share
     url: https://share.hookin.fun
+  - name: cleanData
+    url: $CLEAN_DATA_URL
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
