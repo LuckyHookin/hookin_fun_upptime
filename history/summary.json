@@ -78,7 +78,7 @@
     "url": "$CLEAN_DATA_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "clean-data",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
