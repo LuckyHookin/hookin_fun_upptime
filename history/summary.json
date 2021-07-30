@@ -88,8 +88,8 @@
     "slug": "clean-data",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "99.15%",
     "time": 1918,
@@ -98,7 +98,6 @@
     "timeMonth": 1551,
     "timeYear": 1918,
     "dailyMinutesDown": {
-      "2021-07-29": 1,
       "2021-07-22": 26,
       "2021-07-20": 16,
       "2021-07-19": 22,
