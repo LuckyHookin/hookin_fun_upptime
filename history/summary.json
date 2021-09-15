@@ -87,18 +87,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "clean-data",
     "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "99.16%",
+    "uptime": "99.15%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.15%",
     "time": 1914,
     "timeDay": 1957,
-    "timeWeek": 1993,
+    "timeWeek": 2010,
     "timeMonth": 1891,
     "timeYear": 1914,
     "dailyMinutesDown": {
-      "2021-09-14": 27,
+      "2021-09-14": 20,
       "2021-09-13": 19,
       "2021-09-11": 15,
       "2021-09-10": 27,
@@ -164,7 +164,8 @@
       "2021-05-01": 39,
       "2021-04-27": 58,
       "2021-04-26": 109,
-      "2021-04-25": 64
+      "2021-04-25": 64,
+      "2021-04-23": 39
     }
   }
 ]
