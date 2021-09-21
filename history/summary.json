@@ -86,14 +86,14 @@
     "url": "$CLEAN_DATA_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "clean-data",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "92.09%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "92.44%",
     "uptimeWeek": "96.50%",
     "uptimeMonth": "97.99%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.21%",
     "time": 1917,
-    "timeDay": 2134,
+    "timeDay": 2231,
     "timeWeek": 1944,
     "timeMonth": 1918,
     "timeYear": 1917,
@@ -161,8 +161,7 @@
       "2021-05-16": 47,
       "2021-05-14": 29,
       "2021-05-13": 58,
-      "2021-05-11": 30,
-      "2021-05-10": 22
+      "2021-05-11": 30
     }
   }
 ]
