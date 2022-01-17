@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/hookin.fun",
     "slug": "hookin-fun",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.34%",
     "time": 323,
-    "timeDay": 57,
-    "timeWeek": 121,
-    "timeMonth": 119,
+    "timeDay": 185,
+    "timeWeek": 132,
+    "timeMonth": 121,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2021-05-10": 27,
@@ -24,8 +24,7 @@
       "2021-01-23": 1440,
       "2021-01-22": 1440,
       "2021-01-21": 1379,
-      "2021-01-20": 568,
-      "2021-01-17": 38
+      "2021-01-20": 568
     }
   },
   {
@@ -40,10 +39,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.35%",
     "time": 218,
-    "timeDay": 47,
-    "timeWeek": 81,
-    "timeMonth": 111,
-    "timeYear": 201,
+    "timeDay": 49,
+    "timeWeek": 70,
+    "timeMonth": 109,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2021-05-03": 22,
       "2021-03-15": 16,
@@ -54,8 +53,7 @@
       "2021-01-22": 1440,
       "2021-01-21": 1333,
       "2021-01-20": 633,
-      "2021-01-19": 41,
-      "2021-01-17": 37
+      "2021-01-19": 41
     }
   },
   {
@@ -69,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 170,
-    "timeDay": 48,
-    "timeWeek": 95,
-    "timeMonth": 94,
-    "timeYear": 170,
+    "time": 169,
+    "timeDay": 35,
+    "timeWeek": 87,
+    "timeMonth": 93,
+    "timeYear": 169,
     "dailyMinutesDown": {
       "2021-05-10": 17,
       "2021-05-04": 75,
