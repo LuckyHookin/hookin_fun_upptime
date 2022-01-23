@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.72%",
+    "uptimeYear": "99.00%",
     "time": 320,
-    "timeDay": 67,
-    "timeWeek": 105,
+    "timeDay": 134,
+    "timeWeek": 116,
     "timeMonth": 121,
     "timeYear": 302,
     "dailyMinutesDown": {
@@ -20,8 +20,7 @@
       "2021-05-07": 126,
       "2021-01-26": 814,
       "2021-01-25": 1440,
-      "2021-01-24": 1440,
-      "2021-01-23": 1440
+      "2021-01-24": 1440
     }
   },
   {
@@ -30,23 +29,22 @@
     "icon": "https://favicons.githubusercontent.com/bing.hookin.fun",
     "slug": "bing-pict",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.74%",
+    "uptimeYear": "99.02%",
     "time": 217,
-    "timeDay": 60,
-    "timeWeek": 100,
-    "timeMonth": 112,
+    "timeDay": 123,
+    "timeWeek": 111,
+    "timeMonth": 109,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2021-05-03": 22,
       "2021-03-15": 16,
       "2021-01-26": 830,
       "2021-01-25": 1440,
-      "2021-01-24": 1440,
-      "2021-01-23": 1440
+      "2021-01-24": 1440
     }
   },
   {
@@ -60,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 169,
-    "timeDay": 59,
-    "timeWeek": 100,
+    "time": 168,
+    "timeDay": 47,
+    "timeWeek": 99,
     "timeMonth": 95,
-    "timeYear": 169,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2021-05-10": 17,
       "2021-05-04": 75,
