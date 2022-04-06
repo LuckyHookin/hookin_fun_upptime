@@ -4,10 +4,10 @@
     "url": "https://hookin.fun",
     "icon": "https://favicons.githubusercontent.com/hookin.fun",
     "slug": "hookin-fun",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 296,
@@ -16,6 +16,7 @@
     "timeMonth": 113,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2022-04-06": 1,
       "2022-02-26": 20,
       "2021-05-10": 27,
       "2021-05-07": 126
@@ -26,9 +27,9 @@
     "url": "https://bing.hookin.fun",
     "icon": "https://favicons.githubusercontent.com/bing.hookin.fun",
     "slug": "bing-pict",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,6 +39,7 @@
     "timeMonth": 113,
     "timeYear": 151,
     "dailyMinutesDown": {
+      "2022-04-06": 0,
       "2021-05-03": 22
     }
   },
