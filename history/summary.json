@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/hookin.fun",
     "slug": "hookin-fun",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 273,
-    "timeDay": 136,
+    "timeDay": 93,
     "timeWeek": 93,
-    "timeMonth": 96,
+    "timeMonth": 98,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2022-02-26": 20,
@@ -27,19 +27,17 @@
     "icon": "https://favicons.githubusercontent.com/bing.hookin.fun",
     "slug": "bing-pict",
     "status": "up",
-    "uptime": "98.76%",
+    "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 23,
+    "time": 188,
+    "timeDay": 24,
     "timeWeek": 37,
     "timeMonth": 303,
-    "timeYear": 146,
-    "dailyMinutesDown": {
-      "2021-05-03": 22
-    }
+    "timeYear": 145,
+    "dailyMinutesDown": {}
   },
   {
     "name": "share",
@@ -53,14 +51,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 160,
-    "timeDay": 262,
-    "timeWeek": 185,
-    "timeMonth": 147,
-    "timeYear": 130,
+    "timeDay": 135,
+    "timeWeek": 148,
+    "timeMonth": 150,
+    "timeYear": 129,
     "dailyMinutesDown": {
       "2021-05-10": 17,
-      "2021-05-04": 75,
-      "2021-05-03": 44
+      "2021-05-04": 75
     }
   }
 ]
