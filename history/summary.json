@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 77,
-    "timeWeek": 108,
-    "timeMonth": 117,
+    "timeDay": 284,
+    "timeWeek": 124,
+    "timeMonth": 122,
     "timeYear": 137,
     "dailyMinutesDown": {
       "2022-02-26": 20
@@ -24,19 +24,19 @@
     "url": "https://bing.hookin.fun",
     "icon": "https://favicons.githubusercontent.com/bing.hookin.fun",
     "slug": "bing-pict",
-    "status": "down",
+    "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 87,
-    "timeWeek": 119,
-    "timeMonth": 162,
-    "timeYear": 141,
+    "timeDay": 273,
+    "timeWeek": 111,
+    "timeMonth": 165,
+    "timeYear": 142,
     "dailyMinutesDown": {
-      "2022-06-26": 0
+      "2022-06-26": 13
     }
   },
   {
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 81,
-    "timeWeek": 108,
-    "timeMonth": 129,
+    "time": 151,
+    "timeDay": 229,
+    "timeWeek": 126,
+    "timeMonth": 132,
     "timeYear": 123,
     "dailyMinutesDown": {}
   }
