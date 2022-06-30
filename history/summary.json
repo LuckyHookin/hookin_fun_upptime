@@ -42,17 +42,19 @@
     "url": "https://share.hookin.fun",
     "icon": "https://favicons.githubusercontent.com/share.hookin.fun",
     "slug": "share",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 108,
-    "timeWeek": 145,
-    "timeMonth": 133,
+    "time": 149,
+    "timeDay": 101,
+    "timeWeek": 138,
+    "timeMonth": 131,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   }
 ]
