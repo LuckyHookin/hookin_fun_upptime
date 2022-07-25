@@ -13,7 +13,7 @@
     "time": 208,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 231,
+    "timeMonth": 253,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2022-07-02": 65,
@@ -27,16 +27,16 @@
     "icon": "https://favicons.githubusercontent.com/bing.hookin.fun",
     "slug": "bing-pict",
     "status": "up",
-    "uptime": "98.94%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 85,
-    "timeWeek": 152,
-    "timeMonth": 177,
-    "timeYear": 142,
+    "timeDay": 333,
+    "timeWeek": 182,
+    "timeMonth": 186,
+    "timeYear": 143,
     "dailyMinutesDown": {}
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 95,
-    "timeWeek": 118,
-    "timeMonth": 135,
-    "timeYear": 124,
+    "time": 143,
+    "timeDay": 229,
+    "timeWeek": 139,
+    "timeMonth": 136,
+    "timeYear": 125,
     "dailyMinutesDown": {}
   }
 ]
