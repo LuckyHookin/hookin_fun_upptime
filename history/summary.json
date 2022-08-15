@@ -26,18 +26,20 @@
     "url": "https://bing.hookin.fun",
     "icon": "https://favicons.githubusercontent.com/bing.hookin.fun",
     "slug": "bing-pict",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
+    "time": 157,
     "timeDay": 107,
     "timeWeek": 173,
     "timeMonth": 206,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-15": 0
+    }
   },
   {
     "name": "share",
