@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/hookin.fun",
     "slug": "hookin-fun",
     "status": "down",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 134,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2022-07-02": 65,
       "2022-07-01": 1038,
@@ -33,9 +33,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 8212,
-    "timeWeek": 1173,
-    "timeMonth": 428,
+    "timeDay": 371,
+    "timeWeek": 1211,
+    "timeMonth": 436,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2022-08-26": 18
@@ -52,9 +52,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 86,
-    "timeWeek": 137,
+    "time": 129,
+    "timeDay": 108,
+    "timeWeek": 141,
     "timeMonth": 142,
     "timeYear": 126,
     "dailyMinutesDown": {}
