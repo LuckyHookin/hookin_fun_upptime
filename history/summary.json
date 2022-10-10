@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hookin.fun.ico",
     "slug": "hookin-fun",
     "status": "down",
-    "uptime": "98.94%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 110,
-    "timeWeek": 178,
-    "timeMonth": 186,
-    "timeYear": 177,
+    "timeDay": 476,
+    "timeWeek": 196,
+    "timeMonth": 200,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2022-08-26": 18
     }
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 63,
+    "timeDay": 121,
     "timeWeek": 177,
-    "timeMonth": 170,
+    "timeMonth": 169,
     "timeYear": 128,
     "dailyMinutesDown": {}
   }
