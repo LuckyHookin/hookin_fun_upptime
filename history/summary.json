@@ -43,17 +43,19 @@
     "url": "https://share.hookin.fun",
     "icon": "https://icons.duckduckgo.com/ip3/share.hookin.fun.ico",
     "slug": "share",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 477,
-    "timeWeek": 184,
-    "timeMonth": 180,
+    "timeDay": 300,
+    "timeWeek": 176,
+    "timeMonth": 178,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-06": 0
+    }
   }
 ]
