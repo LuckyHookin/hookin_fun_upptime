@@ -10,7 +10,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 135,
+    "time": 136,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 83,
-    "timeWeek": 79,
+    "timeDay": 47,
+    "timeWeek": 81,
     "timeMonth": 120,
     "timeYear": 201,
     "dailyMinutesDown": {}
@@ -45,17 +45,15 @@
     "slug": "share",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 294,
+    "timeDay": 157,
     "timeWeek": 188,
     "timeMonth": 181,
     "timeYear": 174,
-    "dailyMinutesDown": {
-      "2023-09-06": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
