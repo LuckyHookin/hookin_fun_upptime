@@ -25,18 +25,20 @@
     "url": "https://bing.hookin.fun",
     "icon": "https://icons.duckduckgo.com/ip3/bing.hookin.fun.ico",
     "slug": "bing-pict",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 48,
-    "timeWeek": 124,
+    "timeDay": 92,
+    "timeWeek": 125,
     "timeMonth": 138,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "share",
