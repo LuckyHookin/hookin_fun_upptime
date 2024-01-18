@@ -27,18 +27,16 @@
     "slug": "bing-pict",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 108,
-    "timeWeek": 124,
-    "timeMonth": 137,
-    "timeYear": 176,
-    "dailyMinutesDown": {
-      "2024-01-17": 6
-    }
+    "timeDay": 132,
+    "timeWeek": 126,
+    "timeMonth": 140,
+    "timeYear": 175,
+    "dailyMinutesDown": {}
   },
   {
     "name": "share",
@@ -52,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 91,
-    "timeWeek": 164,
-    "timeMonth": 143,
+    "timeDay": 163,
+    "timeWeek": 152,
+    "timeMonth": 145,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2023-10-30": 23
