@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
+    "uptimeYear": "99.91%",
     "time": 182,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-02-05": 482
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bingPict",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 189,
-    "timeWeek": 138,
-    "timeMonth": 143,
+    "timeDay": 152,
+    "timeWeek": 148,
+    "timeMonth": 145,
     "timeYear": 175,
     "dailyMinutesDown": {}
   },
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 322,
-    "timeWeek": 238,
-    "timeMonth": 171,
-    "timeYear": 166,
+    "time": 170,
+    "timeDay": 415,
+    "timeWeek": 284,
+    "timeMonth": 177,
+    "timeYear": 167,
     "dailyMinutesDown": {
       "2023-10-30": 23
     }
