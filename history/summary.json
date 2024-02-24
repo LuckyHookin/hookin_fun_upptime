@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bing.hookin.fun.ico",
     "slug": "bing-pict",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 137,
-    "timeWeek": 181,
-    "timeMonth": 186,
-    "timeYear": 175,
+    "timeDay": 231,
+    "timeWeek": 184,
+    "timeMonth": 183,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 112,
-    "timeWeek": 178,
-    "timeMonth": 188,
-    "timeYear": 166,
+    "timeDay": 94,
+    "timeWeek": 171,
+    "timeMonth": 187,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2023-10-30": 23
     }
