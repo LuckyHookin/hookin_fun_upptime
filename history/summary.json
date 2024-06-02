@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "97.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "16.20%",
+    "uptimeWeek": "16.26%",
     "uptimeMonth": "10.02%",
     "uptimeYear": "92.50%",
     "time": 1004,
@@ -52,19 +52,19 @@
     "url": "https://bing.hookin.fun",
     "icon": "https://icons.duckduckgo.com/ip3/bing.hookin.fun.ico",
     "slug": "bing-pict",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 96,
-    "timeWeek": 176,
-    "timeMonth": 171,
+    "timeDay": 107,
+    "timeWeek": 169,
+    "timeMonth": 169,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2024-06-02": 0
+      "2024-06-02": 6
     }
   },
   {
