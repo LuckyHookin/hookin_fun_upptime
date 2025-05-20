@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hookin.fun.ico",
     "slug": "hookin-fun",
     "status": "up",
-    "uptime": "97.79%",
+    "uptime": "97.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.29%",
+    "uptimeYear": "96.56%",
     "time": 650,
-    "timeDay": 877,
-    "timeWeek": 717,
+    "timeDay": 698,
+    "timeWeek": 776,
     "timeMonth": 914,
-    "timeYear": 651,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2025-04-04": 70,
       "2025-04-03": 16,
@@ -32,8 +32,7 @@
       "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
-      "2024-05-21": 1440,
-      "2024-05-20": 1440
+      "2024-05-21": 1440
     }
   },
   {
@@ -48,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 145,
-    "timeWeek": 124,
-    "timeMonth": 168,
-    "timeYear": 177,
+    "timeDay": 166,
+    "timeWeek": 137,
+    "timeMonth": 170,
+    "timeYear": 176,
     "dailyMinutesDown": {
       "2024-10-22": 18
     }
@@ -67,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 107,
-    "timeWeek": 154,
-    "timeMonth": 432,
-    "timeYear": 186,
+    "time": 185,
+    "timeDay": 854,
+    "timeWeek": 256,
+    "timeMonth": 456,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   }
 ]
