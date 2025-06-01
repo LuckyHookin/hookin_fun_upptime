@@ -9,19 +9,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
-    "time": 661,
-    "timeDay": 1238,
-    "timeWeek": 848,
-    "timeMonth": 867,
-    "timeYear": 662,
+    "uptimeYear": "99.85%",
+    "time": 662,
+    "timeDay": 1204,
+    "timeWeek": 882,
+    "timeMonth": 883,
+    "timeYear": 664,
     "dailyMinutesDown": {
       "2025-04-04": 70,
       "2025-04-03": 16,
       "2025-04-02": 44,
       "2024-10-14": 21,
-      "2024-10-09": 21,
-      "2024-06-01": 683
+      "2024-10-09": 21
     }
   },
   {
@@ -30,15 +29,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bing.hookin.fun.ico",
     "slug": "bing-pict",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 105,
-    "timeWeek": 166,
-    "timeMonth": 183,
+    "timeDay": 319,
+    "timeWeek": 169,
+    "timeMonth": 186,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2024-10-22": 18
@@ -56,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 289,
+    "timeDay": 173,
     "timeWeek": 237,
-    "timeMonth": 249,
+    "timeMonth": 250,
     "timeYear": 192,
     "dailyMinutesDown": {}
   }
