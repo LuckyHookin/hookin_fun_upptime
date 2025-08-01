@@ -4,7 +4,7 @@
     "url": "https://hookin.fun",
     "icon": "https://icons.duckduckgo.com/ip3/hookin.fun.ico",
     "slug": "hookin-fun",
-    "status": "up",
+    "status": "down",
     "uptime": "97.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 960,
     "timeYear": 679,
     "dailyMinutesDown": {
+      "2025-08-01": 0,
       "2025-07-16": 24,
       "2025-04-04": 70,
       "2025-04-03": 16,
