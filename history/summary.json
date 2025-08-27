@@ -32,7 +32,7 @@
     "url": "https://bing.hookin.fun",
     "icon": "https://icons.duckduckgo.com/ip3/bing.hookin.fun.ico",
     "slug": "bing-pict",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
     "uptimeDay": "98.71%",
     "uptimeWeek": "98.79%",
@@ -44,6 +44,7 @@
     "timeMonth": 202,
     "timeYear": 183,
     "dailyMinutesDown": {
+      "2025-08-27": 0,
       "2025-08-26": 19,
       "2025-08-25": 103,
       "2025-07-26": 39,
